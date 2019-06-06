@@ -157,9 +157,9 @@ function (_Component) {
           id: "variant" + blk.number,
           className: "d-block form-control"
         })), _react.default.createElement("div", {
-          class: "row"
+          className: "row"
         }, _react.default.createElement("div", {
-          class: "col"
+          className: "col"
         }, _react.default.createElement("div", {
           className: "form-group d-block"
         }, _react.default.createElement("label", {
@@ -171,7 +171,7 @@ function (_Component) {
           id: "c02" + blk.number,
           className: "d-block form-control"
         }))), _react.default.createElement("div", {
-          class: "col"
+          className: "col"
         }, _react.default.createElement("div", {
           className: "form-group d-block"
         }, _react.default.createElement("label", {
@@ -183,9 +183,9 @@ function (_Component) {
           id: "mpg" + blk.number,
           className: "d-block form-control"
         })))), _react.default.createElement("div", {
-          class: "row"
+          className: "row"
         }, _react.default.createElement("div", {
-          class: "col"
+          className: "col"
         }, _react.default.createElement("div", {
           className: "form-group d-block"
         }, _react.default.createElement("label", {
@@ -197,7 +197,7 @@ function (_Component) {
           id: "deposit" + blk.number,
           className: "d-block form-control"
         }))), _react.default.createElement("div", {
-          class: "col"
+          className: "col"
         }, _react.default.createElement("div", {
           className: "form-group d-block"
         }, _react.default.createElement("label", {
@@ -219,9 +219,9 @@ function (_Component) {
           id: "image" + blk.number,
           className: "d-block form-control"
         })), _react.default.createElement("div", {
-          class: "row"
+          className: "row"
         }, _react.default.createElement("div", {
-          class: "col"
+          className: "col"
         }, _react.default.createElement("div", {
           className: "form-group d-block"
         }, _react.default.createElement("label", {
@@ -233,7 +233,7 @@ function (_Component) {
           id: "usp" + blk.number,
           className: "d-block form-control"
         }))), _react.default.createElement("div", {
-          class: "col"
+          className: "col"
         }, _react.default.createElement("div", {
           className: "form-group d-block"
         }, _react.default.createElement("label", {

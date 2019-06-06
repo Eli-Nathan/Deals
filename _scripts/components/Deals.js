@@ -94,28 +94,28 @@ class Data extends Component {
             <label htmlFor={"variant" + blk.number} className="d-block mb-0">Variant</label>
             <input type="text" name="Spec" id={"variant" + blk.number} className="d-block form-control" />
           </div>
-          <div class="row">
-            <div class="col">
+          <div className="row">
+            <div className="col">
               <div className="form-group d-block">
                 <label htmlFor={"c02" + blk.number} className="d-block mb-0">C0₂</label>
                 <input type="text" name="c02" id={"c02" + blk.number} className="d-block form-control" />
               </div>
             </div>
-            <div class="col">
+            <div className="col">
               <div className="form-group d-block">
                 <label htmlFor={"mpg" + blk.number} className="d-block mb-0">MPG</label>
                 <input type="text" name="mpg" id={"mpg" + blk.number} className="d-block form-control" />
               </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col">
+          <div className="row">
+            <div className="col">
               <div className="form-group d-block">
                 <label htmlFor={"deposit" + blk.number} className="d-block mb-0">Deposit (£)</label>
                 <input type="number" name="Deposit" id={"deposit" + blk.number} className="d-block form-control" />
               </div>
             </div>
-            <div class="col">
+            <div className="col">
               <div className="form-group d-block">
                 <label htmlFor={"monthly" + blk.number} className="d-block mb-0">Monthly (£)</label>
                 <input type="number" name="Monthly" id={"monthly" + blk.number} className="d-block form-control" />
@@ -126,14 +126,14 @@ class Data extends Component {
             <label htmlFor={"image" + blk.number} className="d-block mb-0">Image URL</label>
             <input type="text" name="Image" id={"image" + blk.number} className="d-block form-control" />
           </div>
-          <div class="row">
-            <div class="col">
+          <div className="row">
+            <div className="col">
               <div className="form-group d-block">
                 <label htmlFor={"usp" + blk.number} className="d-block mb-0">USP</label>
                 <input type="text" name="USP" id={"usp" + blk.number} className="d-block form-control" />
               </div>
             </div>
-            <div class="col">
+            <div className="col">
               <div className="form-group d-block">
                 <label htmlFor={"months" + blk.number} className="d-block mb-0">Term (months)</label>
                 <input type="number" name="Months" id={"months" + blk.number} className="d-block form-control" />
