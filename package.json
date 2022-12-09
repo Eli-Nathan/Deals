@@ -51,7 +51,7 @@
   ],
   "dependencies": {
     "bootstrap": "^4.0.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "gulp-mamp": "0.0.5",
     "popper.js": "^1.14.1",
     "react": "^16.7.0",
